@@ -20,8 +20,7 @@
 
 #### I'm currently occupied with:
 
-* Learning more about CSS and javascript for web design
+* Complete developmental cycle in web apps using Typescript, React, and Vite
 * Delevoping a collection of apps to practice better organization and archetecture of codes
 * Making a whole brand out of trashbunny
-
  
